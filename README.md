@@ -10,7 +10,7 @@ Código fuente: Todo el código en Java contenido en la carpeta /src se distribu
 
 
 ### Licencia para el libro
-Contenido del libro: El texto, diagramas y archivos PDF de Introducción a los conceptos básicos en java se distribuyen bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)].
+Contenido del libro: El texto, diagramas y archivos PDF de Introducción a los conceptos básicos en java se distribuyen bajo la licencia (CC BY 4.0).
 
 ______
 Este libro fue creado para el libre aprendizaje para todos.
